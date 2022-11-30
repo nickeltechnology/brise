@@ -9,7 +9,7 @@ import {
 import domElements, { DomElement } from './dom-elements';
 
 type AcceptsClassNameProperty = {
-  className: string;
+  className?: string;
 };
 
 type StyledComponentProps<T> = T & {
