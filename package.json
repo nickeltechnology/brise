@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "brise",
+  "name": "@nickeltech/brise",
   "author": "Patrick Gotthardt",
   "module": "dist/brise.esm.js",
   "devDependencies": {
