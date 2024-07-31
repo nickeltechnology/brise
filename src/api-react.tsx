@@ -10,7 +10,7 @@ import domElements, { DomElement } from './dom-elements';
 
 type AcceptsClassNameProperty = {
   className?: string;
-} & any;
+};
 
 type StyledComponentProps<T> = T & {
   children?: React.ReactNode;
